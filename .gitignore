@@ -1,4 +1,6 @@
 Controller/__pycache__
 Helpers/__pycache__
+__pycache__
+migrations
 .env
 Uploads/
