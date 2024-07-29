@@ -13,6 +13,10 @@ Vicente Antonio Monsalve Vargas.
  * SqlAlchemy
  * MySQL
 
+## Solucion
+
+![Solucion](imagenes/servicio_upload_archivos.png)
+
 ## Archivos .env
 
 ```

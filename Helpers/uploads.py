@@ -9,6 +9,7 @@ def add_upload(file_name, file_path):
     new_upload = Upload(file_name=file_name, file_path=file_path)
     db.session.add(new_upload)
     db.session.commit()
+    db.session.close()
     return new_upload
 
 def moveFileUploads(files):
